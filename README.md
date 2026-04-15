@@ -7,7 +7,7 @@ A practice project from [The Odin Project](https://www.theodinproject.com/lesson
 - **`capitalizeWord(string)`** Returns the string with the first character capitalized.
 - **`reverseString(string)`** Returns the string reversed.
 - **`calculator`** — An object containing `add`, `subtract`, `multiply`, and `divide` methods.
-- **`caesarCipher(word, shiftValue)`** Encrypts a string using a Caesar cipher. Handles wrap-around (`z` → `a`), preserves case, and leaves non-letter characters unchanged.
+- **`caesarCipher(word, value)`** Encrypts a string using a Caesar cipher. Handles wrap-around (`z` → `a`), preserves case, and leaves non-letter characters unchanged.
 - **`analyzeArray(arr)`** takes an array of numbers and returns an object with `average`, `min`, `max`, and `length`.
 
 ## Tools Used
