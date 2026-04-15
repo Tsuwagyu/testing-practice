@@ -1,7 +1,4 @@
-import { analyzeArray, capitalizeWord } from "./script";
-import { reverseString } from "./script";
-import { calculator } from "./script";
-import { caesarCipher } from "./script";
+import { analyzeArray, capitalizeWord, reverseString, calculator, caesarCipher } from "./script";
 
 
 
